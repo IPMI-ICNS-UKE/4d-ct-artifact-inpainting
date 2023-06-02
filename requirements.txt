@@ -5,5 +5,5 @@ pandas
 scikit-learn
 tqdm
 setuptools
-cython
 torch
+
